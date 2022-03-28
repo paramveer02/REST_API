@@ -19,14 +19,15 @@ Important commands:
 
 `python manage.py runserver`: to run the server, port and host specified in the settings.py file.
 
-`http://127.0.0.1:8000/api/tenants/`:list endpoint, renders all available tenants as per the task.
+`http://127.0.0.1:8000/api/tenants/`: list endpoint, renders all available tenants as per the task.
 
-`http://127.0.0.1:8000/api/tenants/%3C2%3E_TENANT_B/`:retrieve endpoint, Ex: for TENANT_B in this case.
+`http://127.0.0.1:8000/api/tenants/%3C2%3E_TENANT_B/`: retrieve endpoint, Ex: for TENANT_B in this case.
 
 `http://127.0.0.1:8000/admin/`: Admin View Page.
 Required Credentials to log into the admin panel:
 username: `admin`
 password: `admin123`
+
 
 
 
