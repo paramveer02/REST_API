@@ -90,7 +90,7 @@ DATABASES = {
     }
 }
 
-LOCALE_PATHS = (BASE_DIR + "locale/",)
+# LOCALE_PATHS = (BASE_DIR + "locale/",)
 
 
 # Password validation
